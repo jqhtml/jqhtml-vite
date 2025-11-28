@@ -5,7 +5,7 @@ Vite plugin for compiling `.jqhtml` templates to JavaScript.
 ## Installation
 
 ```bash
-npm install @jqhtml/vite-plugin @jqhtml/core jquery
+npm install @jqhtml/vite-plugin@latest @jqhtml/core@latest jquery
 ```
 
 ## Configuration
